@@ -465,6 +465,7 @@ DisagreeButton.MouseButton1Click:Connect(function()
     print("============== 运行脚本代码开始 ==============")
    loadstring(game:HttpGet("https://raw.githubusercontent.com/dkdkdidoskw/Sunkunz/main/1.lua"))()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/dkdkdidoskw/Sunkunz/main/2.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/dkdkdidoskw/Sunkunz/main/3.lua"))()
     -- 运行脚本代码("代码内容(我自己写)")
     -- 示例代码（你可以替换成你自己的）：
     print("执行残废脚本...")
